@@ -1,6 +1,6 @@
-# 力扣刷题题解
+# 算法题解
 
-**(这个仓库记录了我的力扣刷题记录，按照[Lucifer](https://github.com/azl397985856)的91算法来进行刷的，还是比较系统的训练，90天后发现不一样的你，大家可以参考下哦，加油！)**
+**(记录了力扣刷题记录，按照[Lucifer](https://github.com/azl397985856)的91算法来进行刷的，我觉得还是比较系统的训练，91天后发现不一样的你，大家可以参考下，加油！)**
 
 <hr>
 
@@ -9,7 +9,7 @@
 
 #### 一、数组、栈、队列
 
-[01-讲义](./solution/基础/数组、栈、队列/01-讲义.md)
+[01-讲义](./lecture/01-讲义.md)
 
 -   [Day1 - 66. 加一](./solution/基础/数组、栈、队列/Day1-66.加一.md)
 -   [Day2 - 821. 字符的最短距离](./solution/基础/数组、栈、队列/Day2-821.字符的最短距离.md)
@@ -26,7 +26,7 @@
 
 #### 二、链表
 
-[02-讲义](./solution/基础/链表/02-讲义.md)
+[02-讲义](./lecture/02-讲义.md)
 
 -   [Day7 - 24. 两两交换链表中的结点](./solution/基础/链表/Day7-24.两两交换链表中的结点.md)
 -   Day8 -
@@ -43,4 +43,10 @@ TODO
 
 TODO
 
-记得给个Star哦！
+## 关于其他的补充
+
+暂时还没有哦！
+
+<hr style="border-bottom: 6px dotted yellow;">
+
+<center style="color: skyblue; font-size: 30px; font-weight: bold;">记得给个follow加star哦！</center>
