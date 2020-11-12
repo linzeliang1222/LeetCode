@@ -35,7 +35,9 @@
 -   [Day11 - 142. 环形链表II](./solution/基础/链表/Day11-142.环形链表II.md)
 -   [Day12 - 146. LRU缓存机制](./solution/基础/链表/Day12-146.LRU缓存机制.md)
 
-**链表这个专题到这也就结束了，可以看一下Lucifer总结的链表[这篇文章](https://lucifer.ren/blog/2020/11/08/linked-list/)，记下来就是树啦......**
+[推荐的链表题目](./solution/基础/链表/有关链表的推荐题目.md)
+
+**链表这个专题到这也就结束了，可以看一下Lucifer总结的链表[这篇文章: [几乎刷完了力扣所有的链表题，我发现了这些东西。。。]](https://lucifer.ren/blog/2020/11/08/linked-list/)，记下来就是树啦......**
 
 <br>
 
