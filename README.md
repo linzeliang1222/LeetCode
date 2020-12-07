@@ -105,7 +105,7 @@
 
 #### 一、高频考题
 
-12.4开始刷高频考题，
+12.4开始刷高频考题，都是面试很经常碰到的，很大概率有**原题**，即使不是原题，那么扒了皮题目本质也还是**这类型的**。
 
 [06-讲义](./lecture/06-basic.md)
 
@@ -119,6 +119,7 @@
 <br>
 
 <hr>
+
 ## 专题篇
 
 **[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)**
