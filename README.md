@@ -103,16 +103,22 @@
 
 ## 进阶篇
 
-#### 一、并查集
+#### 一、高频考题
+
+12.4开始刷高频考题，
 
 [06-讲义](./lecture/06-basic.md)
 
--   [Day30 - ]()
+-   [Day30 - 树的遍历系列](./solution/进阶/高频考题/Day31-树的遍历系列.md)
+-   [Day32 - 反转链表系列](./solution/进阶/高频考题/Day32-反转链表系列.md)
+-   [Day33 - 动态规划系列]()
+-   [Day34 - ]()
+-   [Day35 - ]()
+-   [Day36 - ]()
 
 <br>
 
 <hr>
-
 ## 专题篇
 
 **[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)**
