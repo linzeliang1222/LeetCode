@@ -107,6 +107,8 @@
 
 12.4开始刷高频考题，都是面试很经常碰到的，很大概率有**原题**，即使不是原题，那么扒了皮题目本质也还是**这类型的**。
 
+这一篇每天的题目并不是才1题的，准确来说是**大于等于1题**，每天出的是同类型的题目，目前来说做不完，有的题先留个坑，下次再回来做。
+
 [06-讲义](./lecture/06-basic.md)
 
 -   [Day30 - 树的遍历系列](./solution/进阶/高频考题/Day31-树的遍历系列.md)
@@ -130,6 +132,6 @@
 
 暂时还没有哦！
 
-<hr style="border-bottom: 6px dotted yellow;">
+<hr>
 
-<center style="color: skyblue; font-size: 30px; font-weight: bold;">记得给个follow加star哦！</center>
+<center style="color: skyblue; font-size: 30px; font-weight: bold;">给个star啵！</center>
