@@ -148,7 +148,21 @@
 -   [Day42 - ]()
 -   [Day43 - ]()
 
+<br>
 
+### 四、跳表
+
+<br>
+
+###　五、剪枝
+
+<br>
+
+### 六、RK和KMP
+
+<br>
+
+### 七、堆
 
 <br>
 
@@ -156,14 +170,13 @@
 
 ## 专题篇
 
-
-**[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)**
+<br>
 
 ---
 
 ## 关于其他的补充
 
-暂时还没有哦！
+-   关于**[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)**专题
 
 ---
 
