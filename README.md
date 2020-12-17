@@ -182,7 +182,8 @@
 
 ## 关于其他的补充
 
--   关于**[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)**专题
+-   关于[搜索](https://github.com/leetcode-pp/91alg-2/blob/master/lecture/topic-search.md)专题
+-   [构造二叉树系列](https://github.com/azl397985856/leetcode/blob/master/selected/construct-binary-tree.md)
 
 ---
 
